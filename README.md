@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Mitchell, I am an Undergraduate Environmental Engineer at the University of Toledo. I am working towards a career in resilience within the water-energy nexus. 
+
+I am currently working on:
+- Automating normal engineering calculations and tying them to helpful data visualization methods
+- A videogame called W.A.D.E.
+  - This will be a way for me to pair my experience with programming and engineering in a fun way 
+
+
+
 <!--
 **Mpolo173212/Mpolo173212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
