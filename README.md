@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is Mitchell, I am an Undergraduate Environmental Engineer at the University of Toledo. I am working towards a career in resilience within the water-energy nexus. 
+My name is Mitchell, I am an Undergraduate Environmental Engineer at the University of Toledo. I am working towards a career in resilience within the water-energy-climate nexus. 
 
 I am currently working on:
 - Automating normal engineering calculations and tying them to helpful data visualization methods
-- A videogame called W.A.D.E.
-  - This will be a way for me to pair my experience with programming and engineering in a fun way 
+- Building scenario dashboards to visualize the tradeoffs between water demand, energy generation, carbon emissions.
+- Using public databases to feed real world data into scripts that help practice carbon accounting. 
 
 
 
